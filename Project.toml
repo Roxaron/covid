@@ -1,5 +1,5 @@
 [compat]
-Julia="=1.6.1"
+Julia="1.6.1"
 [deps]
 Atom = "c52e3926-4ff0-5f6e-af25-54175e0327b1"
 Blink = "ad839575-38b3-5650-b840-f874b8c74a25"
